@@ -1,2 +1,2 @@
 # WeatherApp
-Aplicatie de prognoza meteo pentru ziua curenta si urmatoarele 5 zile.
+To view the site, click on the following link: https://forecastapp-weather.netlify.app/
